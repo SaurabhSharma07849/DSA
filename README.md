@@ -21,9 +21,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/SaurabhSharma07849/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SaurabhSharma07849/DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SaurabhSharma07849/DSA/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/SaurabhSharma07849/DSA/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/SaurabhSharma07849/DSA/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/SaurabhSharma07849/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
