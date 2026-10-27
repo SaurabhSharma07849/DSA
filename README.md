@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SaurabhSharma07849/DSA/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/SaurabhSharma07849/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaurabhSharma07849/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Interactive
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SaurabhSharma07849/DSA/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/SaurabhSharma07849/DSA/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
