@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaurabhSharma07849/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaurabhSharma07849/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,8 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SaurabhSharma07849/DSA/tree/master/0389-find-the-difference) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaurabhSharma07849/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/SaurabhSharma07849/DSA/tree/master/0367-valid-perfect-square) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaurabhSharma07849/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
