@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaurabhSharma07849/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/SaurabhSharma07849/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1929-concatenation-of-array](https://github.com/SaurabhSharma07849/DSA/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaurabhSharma07849/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SaurabhSharma07849/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaurabhSharma07849/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/SaurabhSharma07849/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
